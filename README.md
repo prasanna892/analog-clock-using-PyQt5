@@ -10,9 +10,11 @@
 #### 3) It has three clock faces. if you want more, then add your clock face image in "./assets/clock_face" folder
 #### 4) To change clock face double click on it
 
+## GIF
 
 <img src="https://github.com/prasanna892/PyQt5_loading_screen/blob/main/LoadingScreen.gif" />
 
+## Contact 
 
 Mail address : k.prasannagh@gmail.com
 
