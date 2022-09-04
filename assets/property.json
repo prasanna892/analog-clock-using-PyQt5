@@ -1,0 +1,23 @@
+{
+    "position": {
+        "x_pos": 425,
+        "y_pos": 362
+    },
+    "screen_size": 250,
+    "clock_face_size": 215,
+    "clock_img_count": 1,
+    "dot_width1": 12,
+    "dot_width2": 6,
+    "hour_hand_width": 18,
+    "hour_hand_height": 86,
+    "hour_hand_pivot_width": 9,
+    "hour_hand_pivot_height": 77,
+    "minutes_hand_width": 22,
+    "minutes_hand_height": 97,
+    "minutes_hand_pivot_width": 11,
+    "minutes_hand_pivot_height": 88,
+    "seconds_hand_width": 14,
+    "seconds_hand_height": 132,
+    "seconds_hand_pivot_width": 7,
+    "seconds_hand_pivot_height": 99
+}
