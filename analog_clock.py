@@ -226,6 +226,7 @@ class AnalogClock(QWidget):
     # catch mouse wheel event occure
     def wheelEvent(self, event):
         # for one wheel rotation the width and height will chage by 25
+        self.pos_x = self.pos().x(); self.pos_y = self.pos().y()
         if event.angleDelta().y() > 0:
             self.screen_resize += 25
             if self.screen_resize > 350: self.screen_resize = 350 # max size
